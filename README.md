@@ -7,7 +7,7 @@ A clean and responsive **Weather App** built using **HTML**, **CSS**, and **Java
 
 ## 📸 Preview
 
-![Weather App Preview](./review.png)  
+![Weather App Preview](./preview.png)  
 
 ---
 
